@@ -1,0 +1,10 @@
+C:\Users\jhxdw\source\repos\batuogrenci\batuogrenci\bin\Debug\batuogrenci.exe.config
+C:\Users\jhxdw\source\repos\batuogrenci\batuogrenci\bin\Debug\batuogrenci.exe
+C:\Users\jhxdw\source\repos\batuogrenci\batuogrenci\bin\Debug\batuogrenci.pdb
+C:\Users\jhxdw\source\repos\batuogrenci\batuogrenci\obj\Debug\batuogrenci.csproj.AssemblyReference.cache
+C:\Users\jhxdw\source\repos\batuogrenci\batuogrenci\obj\Debug\batuogrenci.Form1.resources
+C:\Users\jhxdw\source\repos\batuogrenci\batuogrenci\obj\Debug\batuogrenci.Properties.Resources.resources
+C:\Users\jhxdw\source\repos\batuogrenci\batuogrenci\obj\Debug\batuogrenci.csproj.GenerateResource.cache
+C:\Users\jhxdw\source\repos\batuogrenci\batuogrenci\obj\Debug\batuogrenci.csproj.CoreCompileInputs.cache
+C:\Users\jhxdw\source\repos\batuogrenci\batuogrenci\obj\Debug\batuogrenci.exe
+C:\Users\jhxdw\source\repos\batuogrenci\batuogrenci\obj\Debug\batuogrenci.pdb

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Batuhan\\Desktop\\BATU heap games\\batuogrenci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:2:0:{E92EED22-3368-482B-8D9E-3731474A48B0}|batuogrenci\\batuogrenci.csproj|c:\\users\\batuhan\\desktop\\batu heap games\\batuogrenci\\batuogrenci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{E92EED22-3368-482B-8D9E-3731474A48B0}|batuogrenci\\batuogrenci.csproj|solutionrelative:batuogrenci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{E92EED22-3368-482B-8D9E-3731474A48B0}|batuogrenci\\batuogrenci.csproj|c:\\users\\batuhan\\desktop\\batu heap games\\batuogrenci\\batuogrenci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{E92EED22-3368-482B-8D9E-3731474A48B0}|batuogrenci\\batuogrenci.csproj|solutionrelative:batuogrenci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92EED22-3368-482B-8D9E-3731474A48B0}|batuogrenci\\batuogrenci.csproj|C:\\Users\\Batuhan\\Desktop\\BATU heap games\\batuogrenci\\batuogrenci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E92EED22-3368-482B-8D9E-3731474A48B0}|batuogrenci\\batuogrenci.csproj|solutionrelative:batuogrenci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 267,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Batuhan\\Desktop\\BATU heap games\\batuogrenci\\batuogrenci\\Form1.cs",
+              "RelativeDocumentMoniker": "batuogrenci\\Form1.cs",
+              "ToolTip": "C:\\Users\\Batuhan\\Desktop\\BATU heap games\\batuogrenci\\batuogrenci\\Form1.cs",
+              "RelativeToolTip": "batuogrenci\\Form1.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T06:07:46.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Batuhan\\Desktop\\BATU heap games\\batuogrenci\\batuogrenci\\Form1.cs",
+              "RelativeDocumentMoniker": "batuogrenci\\Form1.cs",
+              "ToolTip": "C:\\Users\\Batuhan\\Desktop\\BATU heap games\\batuogrenci\\batuogrenci\\Form1.cs",
+              "RelativeToolTip": "batuogrenci\\Form1.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAswJIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:52:06.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Batuhan\\Desktop\\BATU heap games\\batuogrenci\\batuogrenci\\Form1.cs",
+              "RelativeDocumentMoniker": "batuogrenci\\Form1.cs",
+              "ToolTip": "C:\\Users\\jhxdw\\source\\repos\\batuogrenci\\batuogrenci\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\jhxdw\\source\\repos\\batuogrenci\\batuogrenci\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:13:59.25Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
